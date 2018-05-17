@@ -47,7 +47,7 @@ setting your $TERM to `xterm-256color`, because that works for me.
 
 * Clone this repository somewhere:
 
-        git clone https://github.com/milkbikis/powerline-shell
+        git clone https://github.com/hiedar/powerline-shell.git
 
 * Copy `config.py.dist` to `config.py` and edit it to configure the segments you want. Then run
 
